@@ -12,3 +12,9 @@
 
 <img width="1236" height="664" alt="Captura desde 2025-12-07 19-52-11" src="https://github.com/user-attachments/assets/52661727-89de-4f73-81f8-f53e6974813a" />
 
+
+## Tercer paso 
+#### lo que hice fue ponerle fecha de vencimiento del enlace y contraseña
+
+<img width="1236" height="664" alt="Captura desde 2025-12-07 20-05-21" src="https://github.com/user-attachments/assets/ce286981-ee60-4d68-9983-351a5e4bfcd5" />
+

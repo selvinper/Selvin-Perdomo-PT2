@@ -14,3 +14,9 @@
 
 
 <img width="403" height="477" alt="Captura desde 2025-12-07 18-31-37" src="https://github.com/user-attachments/assets/242a3627-da84-4d16-849a-2e55e5701654" />
+
+
+## Tercer usuario
+#### el tercer usuario lo asigne a grupo de visualisador y le puse de nombre selvin03
+
+<img width="403" height="477" alt="Captura desde 2025-12-07 18-34-53" src="https://github.com/user-attachments/assets/3548553f-9359-415b-bc8e-6618d3821a0f" />

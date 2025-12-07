@@ -7,3 +7,8 @@
 
 <img width="1236" height="664" alt="Captura desde 2025-12-07 19-38-56" src="https://github.com/user-attachments/assets/14121def-c37f-4875-abf8-586147b431db" />
 
+## segundo paso
+#### le damos compartir a cada carpeta 
+
+<img width="1236" height="664" alt="Captura desde 2025-12-07 19-52-11" src="https://github.com/user-attachments/assets/52661727-89de-4f73-81f8-f53e6974813a" />
+

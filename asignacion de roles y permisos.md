@@ -4,4 +4,7 @@
 <img width="493" height="469" alt="Captura desde 2025-12-07 19-01-01" src="https://github.com/user-attachments/assets/43d7c0dc-c54a-4480-b175-9cec8a6c9980" />
 
 ## segundo paso
-#### 
+#### despues que creamos la carpeta le damos click a compartir 
+
+<img width="1236" height="664" alt="Captura desde 2025-12-07 19-11-11" src="https://github.com/user-attachments/assets/258b18d4-dcd4-47d7-8d77-e4da86896dff" />
+
